@@ -1,0 +1,7 @@
+學號:1110634008
+姓名:廖翊臻
+此次測驗使用到哪些指令:
+git log/git commit /git checkout/git merge/git add/git init
+學習到的內容:認識github交友平台/對git近一步認知
+建議:有些細節聽得不是很懂
+
