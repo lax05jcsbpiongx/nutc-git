@@ -1,6 +1,6 @@
-©m¦W:¹ù¸g´­
-¾Ç¸¹:1110634027
-«ü¥O:
+å§“å:å»–ç¶“æš
+å­¸è™Ÿ:1110634027
+æŒ‡ä»¤:
 git clon
 git add
 git branch
@@ -9,5 +9,5 @@ git commit
 git merge --no-ff
 git remote add
 git push
-¾Ç²ß¤º®e:git¤Jªù
-«ØÄ³:«Ü¦nª± §Æ±æ¥i¥H¦³§ó¦hÃş¦üªº½Òµ{
+å­¸ç¿’å…§å®¹:git å…¥é–€
+å»ºè­°:å¾ˆå¥½ç©
