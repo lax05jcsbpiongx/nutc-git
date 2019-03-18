@@ -1,0 +1,16 @@
+姓名：莊竣凱
+學號：1110634037
+此次測驗使用到哪些指令：
+git init
+git branch
+git checkout
+git add
+git commit
+git mrge
+git status
+git config
+git diff
+git log
+學習到的內容:撰寫了好多的程式碼
+建議：希望有更多的時間能了解它
+
