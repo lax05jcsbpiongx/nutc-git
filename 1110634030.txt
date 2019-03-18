@@ -1,0 +1,12 @@
+姓名：賴柏諺
+學號：1110634030
+此次測驗使用到哪些指令：git clone
+git commit
+git push origin
+git checkout
+git add
+git merge
+git pull oeigin
+
+學習到的內容：如何打git
+建議：太難了
