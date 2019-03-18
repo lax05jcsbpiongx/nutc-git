@@ -1,0 +1,13 @@
+姓名:廖經揚
+學號:1110634027
+指令:
+git clon
+git add
+git branch
+git checkout
+git commit
+git merge --no-ff
+git remote add
+git push
+學習內容:git 入門
+建議:很好玩
