@@ -1,0 +1,17 @@
+﻿姓名：陳禹丞
+
+
+學號：1110634023
+
+
+學習到的內容：學會如何使用版本控制 這樣以後就可以跟其他人一起寫程式 並與他人共享自己的成果
+
+	指令: git clone
+	      git commit
+	      git push origin
+	      git checkout
+	      git add
+	      git merge
+	      git pull oeigin
+
+建議：老師講解的很棒 但礙於時間關係 講師可能沒有辦法講解完所有內容 希望下次可以給予講師足夠的時間 這樣學習的內容也會更完整
