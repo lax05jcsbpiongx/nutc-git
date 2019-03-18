@@ -1,12 +1,10 @@
-©m¦W¡G¿à¬f¿Î
-¾Ç¸¹¡G1110634030
-¦¹¦¸´úÅç¨Ï¥Î¨ì­ş¨Ç«ü¥O¡Ggit clone
+ï»¿å§“åï¼šè³´æŸè«º
+å­¸è™Ÿï¼š110634030
+æ­¤æ¬¡æ¸¬é©—ä½¿ç”¨é“çš„æŒ‡ä»¤ï¼šgit clone
 git commit
 git push origin
 git checkout
 git add
-git merge
-git pull oeigin
-
-¾Ç²ß¨ìªº¤º®e¡G¦p¦ó¥´git
-«ØÄ³¡G¤ÓÃø¤F
+git origin
+å­¸ç¿’åˆ°çš„å…§å®¹ï¼šæ‰“git
+å»ºè­°ï¼šå¤ªé›£äº†
